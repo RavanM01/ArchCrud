@@ -12,5 +12,7 @@ namespace Business.Services.Interfaces
         Task<GetModelDto> CreateAsync(CreateModelDto dto);
         Task<GetModelDto> GetById(int id);
         Task Update(UpdateModelDto dto);
+        Task Delete(int id);
+        Task SoftDelete(int id);
     }
 }

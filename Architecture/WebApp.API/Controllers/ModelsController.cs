@@ -64,5 +64,32 @@ namespace WebApp.API.Controllers
                 throw new Exception(ex.Message);
             }
         }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                await modelService.Delete(id);
+                return NoContent();
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpDelete("SoftDelete/{id}")]
+        public async Task<IActionResult> SoftDelete(int id)
+        {
+            try
+            {
+                await modelService.SoftDelete(id);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }

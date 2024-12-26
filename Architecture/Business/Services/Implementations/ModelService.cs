@@ -36,6 +36,13 @@ namespace Business.Services.Implementations
             return _mapper.Map<GetModelDto>(newModel);
         }
 
+        public async Task Delete(int id)
+        {
+            var model = await GetById(id);
+            _repo.Delete(_mapper.Map<Model>(model));
+            await _repo.SaveChangesAsync();
+        }
+
         public async Task<GetModelDto> GetById(int id)
         {
             if (id <= 0)
@@ -44,6 +51,13 @@ namespace Business.Services.Implementations
             }
             GetModelDto dto = _mapper.Map<GetModelDto>(await _repo.GetbyId(id));
             return dto!=null?dto:throw new ModelNullException();
+        }
+
+        public async Task SoftDelete(int id)
+        {
+            var model = await GetById(id);
+            _repo.SoftDelete(_mapper.Map<Model>(model));
+            await _repo.SaveChangesAsync();
         }
 
         public async Task Update(UpdateModelDto dto)
@@ -57,5 +71,6 @@ namespace Business.Services.Implementations
             _repo.Update(_mapper.Map<Model>(oldModel));
             await _repo.SaveChangesAsync();
         }
+       
     }
 }

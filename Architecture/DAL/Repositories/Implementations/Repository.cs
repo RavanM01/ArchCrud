@@ -46,7 +46,7 @@ namespace DAL.Repositories.Implementations
 
         public async Task<TEntity> GetbyId(int id)
         {
-            return await Table.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+            return await Table.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id&&!x.IsDeleted);
         }
 
         public async Task<int> SaveChangesAsync()
@@ -61,6 +61,12 @@ namespace DAL.Repositories.Implementations
         public async Task<bool> IsExsist(Expression<Func<TEntity,bool>> expression)
         {
             return await Table.AnyAsync(expression);
+        }
+
+        public void SoftDelete(TEntity entity)
+        {
+            entity.IsDeleted = true;
+            Table.Update(entity);
         }
     }
 }

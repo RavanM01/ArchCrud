@@ -1,49 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\meher\\source\\repos\\Architecture\\",
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\meher\\source\\repos\\architecture\\webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\dtos\\model\\updatemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\updatemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\helpers\\exceptions\\model\\modelnameexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\exceptions\\model\\modelnameexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\meher\\source\\repos\\architecture\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\meher\\source\\repos\\architecture\\business\\dtos\\model\\createmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\dtos\\model\\updatemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\updatemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\helpers\\exceptions\\model\\modelnameexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\exceptions\\model\\modelnameexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\business\\dtos\\model\\createmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\createmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\meher\\source\\repos\\architecture\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\archcrud\\architecture\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,146 +66,166 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateModelDto.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\UpdateModelDto.cs",
-              "RelativeDocumentMoniker": "Business\\DTOs\\Model\\UpdateModelDto.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\UpdateModelDto.cs*",
-              "RelativeToolTip": "Business\\DTOs\\Model\\UpdateModelDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "20241226083539_addIsDeletedColumn.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:10:51.005Z",
+              "WhenOpened": "2024-12-26T08:35:39.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceRegistrations.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\ServiceRegistrations.cs",
-              "RelativeDocumentMoniker": "Business\\ServiceRegistrations.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\ServiceRegistrations.cs*",
-              "RelativeToolTip": "Business\\ServiceRegistrations.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:07:52.837Z",
+              "WhenOpened": "2024-12-26T08:34:29.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ModelsController.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
               "RelativeDocumentMoniker": "WebApp.API\\Controllers\\ModelsController.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs*",
-              "RelativeToolTip": "WebApp.API\\Controllers\\ModelsController.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwDwAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\ModelsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T20:59:24.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ModelService.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\Implementations\\ModelService.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Implementations\\ModelService.cs*",
-              "RelativeToolTip": "Business\\Services\\Implementations\\ModelService.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAnwDkAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\ModelService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T20:40:21.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IModelService.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\Interfaces\\IModelService.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs*",
-              "RelativeToolTip": "Business\\Services\\Interfaces\\IModelService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
+              "RelativeToolTip": "Business\\Services\\Interfaces\\IModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T20:38:24.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
               "RelativeDocumentMoniker": "Business\\Helpers\\Mapper\\AutoMapper.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs*",
-              "RelativeToolTip": "Business\\Helpers\\Mapper\\AutoMapper.cs*",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Business\\Helpers\\Mapper\\AutoMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:37:50.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:37:50.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ModelNameExsistException.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
               "RelativeDocumentMoniker": "Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs*",
-              "RelativeToolTip": "Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs*",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
+              "RelativeToolTip": "Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:48:55.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:48:55.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CreateModelDto.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\CreateModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\DTOs\\Model\\CreateModelDto.cs",
               "RelativeDocumentMoniker": "Business\\DTOs\\Model\\CreateModelDto.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\Business\\DTOs\\Model\\CreateModelDto.cs*",
-              "RelativeToolTip": "Business\\DTOs\\Model\\CreateModelDto.cs*",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\DTOs\\Model\\CreateModelDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Model\\CreateModelDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:27:10.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:27:10.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Interfaces\\IRepository.cs*",
-              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T19:41:59.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Implementations\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\DAL\\Repositories\\Implementations\\Repository.cs*",
-              "RelativeToolTip": "DAL\\Repositories\\Implementations\\Repository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\DAL\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwC4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T19:41:40.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Business\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Business\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:07:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:10:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\WebApp.API\\Program.cs",
               "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
-              "ToolTip": "C:\\Users\\meher\\source\\repos\\Architecture\\WebApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud\\Architecture\\WebApp.API\\Program.cs",
               "RelativeToolTip": "WebApp.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T19:09:55.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T19:09:55.296Z"
             }
           ]
         }
